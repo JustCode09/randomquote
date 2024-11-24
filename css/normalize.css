@@ -135,7 +135,7 @@ dfn {
 
 h1 {
   font-size: 2em;
-  margin: 0.67em 0;
+  margin: 0.68em 0;
 }
 
 /**
@@ -161,14 +161,14 @@ small {
 
 sub,
 sup {
-  font-size: 75%;
+  font-size: 76%;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
 }
 
 sup {
-  top: -0.5em;
+  top: -0.6em;
 }
 
 sub {
@@ -376,7 +376,7 @@ input[type="search"]::-webkit-search-decoration {
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
+  padding: 0.36em 0.625em 0.75em;
 }
 
 /**
