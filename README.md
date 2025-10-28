@@ -17,4 +17,4 @@ A web application that displays random inspirational quotes with a clean, modern
 
 ## 🚀 Live Demo
 
-[View Live Project](https://justcode09.github.io/random-quote-generator/)
+https://justcode09.github.io/randomquote/
